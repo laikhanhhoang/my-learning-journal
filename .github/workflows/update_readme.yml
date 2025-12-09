@@ -5,6 +5,7 @@ on:
     branches: [main]      # chỉ trigger trên nhánh main
     paths:
       - 'courses/**'      # trigger khi có thay đổi trong folder courses
+      - 'generate_readme.py'
 
 jobs:
   update-readme:
