@@ -1,6 +1,8 @@
 # All My Courses 
 
 ## AI ML Foundation
+## AI/ML Foundation
+
 | Course | Certificate & Repo | Status |
 |--------|--------------------|--------|
 |Advanced Natural Language Processing ([ProtonX](https://protonx.io/courses/66b04dce02b797001269359b)) | [Github]() | On-going |
