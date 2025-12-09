@@ -2,5 +2,5 @@
 
 | Khóa học | Link khóa học | Link chứng chỉ | Link repo | Status |
 |----------|---------------|----------------|-----------|--------|
-| Python for AI lahalah | [Course](https://example.com) | [Cert](https://example.com/cert) | [GitHub](https://github.com/you/repo) | ✅ Completed |
+| Python for AI | [Course](https://example.com) | [Cert](https://example.com/cert) | [GitHub](https://github.com/you/repo) | ✅ Completed |
 
