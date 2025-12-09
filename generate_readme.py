@@ -16,6 +16,5 @@ with open("README.md", "w", encoding="utf-8") as readme:
             with open(filepath, "r", encoding="utf-8") as f: # Chế độ 'r' để đọc
                 content = f.read()
             
-            readme.write(f"\n## {filename.replace('.md', '').replace('_', ' ')}\n")
             readme.write(content + "\n\n") # Ghi nội dung và thêm dòng mới
             
