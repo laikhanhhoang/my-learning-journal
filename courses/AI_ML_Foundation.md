@@ -1,4 +1,4 @@
-| Khóa học | Link khóa học | Link chứng chỉ | Link repo | Status |
-|----------|---------------|----------------|-----------|--------|
-| Python for AIzz | [Course](https://example.com) | [Cert](https://example.com/cert) | [GitHub](https://github.com/you/repo) | ✅ Completed |
+| Course | Certificate & Repo | Status |
+|--------|--------------------|--------|
+| Python for AIzz ([Course](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/)) | [Github](https://github.com/laikhanhhoang/Deep_Learning_Journey) | Completed |
 
