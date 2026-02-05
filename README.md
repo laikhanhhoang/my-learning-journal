@@ -28,6 +28,9 @@
 
 | Course | Certificate & Repo | Status |
 |--------|--------------------|--------|
-|Python Django: Ultimate Beginners Course - 2025 ([Udemy](https://www.udemy.com/course/python-django-ultimate-beginners-course-2022/)) | [Github](https://github.com/laikhanhhoang/Udemy-Django_Ultimate_Beginners_Course_2025) | On-going |
+|Build Ecommerce REST API with Django REST Framework & Python ([Udemy](https://www.udemy.com/course/build-ecommerce-rest-api-with-django-rest-framework/))| [Github](https://github.com/laikhanhhoang/Ecommerce-Django_REST_Framework-Udemy)|On-going|
+|Python Django: Ultimate Beginners Course - 2025 ([Udemy](https://www.udemy.com/course/python-django-ultimate-beginners-course-2022/)) | [Github](https://github.com/laikhanhhoang/Udemy-Django_Ultimate_Beginners_Course_2025) | Completed |
+
+
 
 
